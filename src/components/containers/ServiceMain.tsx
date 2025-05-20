@@ -50,20 +50,20 @@ const ServiceMain = () => {
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single"> العلامة التجارية </Link>
+                          <Link href="service-single">קמפיינים ממומנים</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> تحديد الفكرة </li>
-                        <li> ريسيرش المنافس </li>
-                        <li> الجمهور المستهدف </li>
-                        <li> التحقق من صحة الفكرة </li>
-                        <li> قيمة العميل </li>
+                        <li>פייסבוק ואינסטגרם</li>
+                        <li>גוגל אדס</li>
+                        <li>יוטיוב</li>
+                        <li>לינקדאין</li>
+                        <li>טיקטוק</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>
@@ -78,23 +78,20 @@ const ServiceMain = () => {
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single">
-                            {" "}
-                            تصميم تجربة المستخدم{" "}
-                          </Link>
+                          <Link href="service-single">קידום אורגני SEO</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> التقدير </li>
-                        <li> البحث </li>
-                        <li> لوحة القصة </li>
-                        <li> تدفق المستخدم </li>
-                        <li> هندسة المعلومات </li>
+                        <li>מחקר מילות מפתח</li>
+                        <li>אופטימיזציה לאתר</li>
+                        <li>בניית קישורים</li>
+                        <li>קידום מקומי</li>
+                        <li>דוחות ביצועים</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>
@@ -109,23 +106,20 @@ const ServiceMain = () => {
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single">
-                            {" "}
-                            تصميم واجهة المستخدم{" "}
-                          </Link>
+                          <Link href="service-single">ניהול רשתות חברתיות</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> Hi-Fidelity إطار سلكي </li>
-                        <li> نظام التصميم </li>
-                        <li> العرض التقديمي النهائي </li>
-                        <li> التسليم النهائي </li>
-                        <li> دعم ما بعد التسليم </li>
+                        <li>אסטרטגיית תוכן</li>
+                        <li>יצירת תוכן</li>
+                        <li>ניהול קהילה</li>
+                        <li>עיצוב גרפי</li>
+                        <li>ניתוח ביצועים</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>
@@ -140,20 +134,20 @@ const ServiceMain = () => {
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single"> التطوير </Link>
+                          <Link href="service-single">בניית אתרים</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> الواجهة الأمامية </li>
-                        <li> الخلفية </li>
-                        <li> تطبيق الهاتف المحمول </li>
-                        <li> دعم ما بعد التسليم </li>
-                        <li> تطوير الخادم </li>
+                        <li>אתרי תדמית</li>
+                        <li>חנויות אונליין</li>
+                        <li>דפי נחיתה</li>
+                        <li>עיצוב UX/UI</li>
+                        <li>תחזוקה שוטפת</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>
@@ -164,24 +158,24 @@ const ServiceMain = () => {
                     <div className="service-t__slider-single">
                       <div className="intro">
                         <span className="sub-title">
-                          01
+                          05
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single"> العلامة التجارية </Link>
+                          <Link href="service-single">כתיבת תוכן</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> تحديد الفكرة </li>
-                        <li> ريسيرش المنافس </li>
-                        <li> الجمهور المستهدف </li>
-                        <li> التحقق من صحة الفكرة </li>
-                        <li> قيمة العميل </li>
+                        <li>תוכן לאתרים</li>
+                        <li>מאמרים מקצועיים</li>
+                        <li>תוכן לרשתות חברתיות</li>
+                        <li>תיאורי מוצר</li>
+                        <li>ניוזלטרים</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>
@@ -192,86 +186,24 @@ const ServiceMain = () => {
                     <div className="service-t__slider-single">
                       <div className="intro">
                         <span className="sub-title">
-                          02
+                          06
                           <i className="fa-solid fa-arrow-right"></i>
                         </span>
                         <h4>
-                          <Link href="service-single">
-                            {" "}
-                            تصميم تجربة المستخدم{" "}
-                          </Link>
+                          <Link href="service-single">אנליטיקס ודוחות</Link>
                         </h4>
                       </div>
                       <ul>
-                        <li> التقدير </li>
-                        <li> البحث </li>
-                        <li> لوحة القصة </li>
-                        <li> تدفق المستخدم </li>
-                        <li> هندسة المعلومات </li>
+                        <li>ניתוח נתונים</li>
+                        <li>דוחות ביצועים</li>
+                        <li>מעקב המרות</li>
+                        <li>אופטימיזציה</li>
+                        <li>המלצות לשיפור</li>
                       </ul>
                       <div className="cta">
                         <Link href="service-single">
                           <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  <div className="service-t-single-wrapper">
-                    <div className="service-t__slider-single">
-                      <div className="intro">
-                        <span className="sub-title">
-                          03
-                          <i className="fa-solid fa-arrow-right"></i>
-                        </span>
-                        <h4>
-                          <Link href="service-single">
-                            {" "}
-                            تصميم واجهة المستخدم{" "}
-                          </Link>
-                        </h4>
-                      </div>
-                      <ul>
-                        <li> Hi-Fidelity إطار سلكي </li>
-                        <li> نظام التصميم </li>
-                        <li> العرض التقديمي النهائي </li>
-                        <li> التسليم النهائي </li>
-                        <li> دعم ما بعد التسليم </li>
-                      </ul>
-                      <div className="cta">
-                        <Link href="service-single">
-                          <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  <div className="service-t-single-wrapper">
-                    <div className="service-t__slider-single">
-                      <div className="intro">
-                        <span className="sub-title">
-                          04
-                          <i className="fa-solid fa-arrow-right"></i>
-                        </span>
-                        <h4>
-                          <Link href="service-single"> التطوير </Link>
-                        </h4>
-                      </div>
-                      <ul>
-                        <li> الواجهة الأمامية </li>
-                        <li> الخلفية </li>
-                        <li> تطبيق الهاتف المحمول </li>
-                        <li> دعم ما بعد التسليم </li>
-                        <li> تطوير الخادم </li>
-                      </ul>
-                      <div className="cta">
-                        <Link href="service-single">
-                          <i className="icon-arrow-top-right"></i>
-                          <span>تفاصيل الخدمة</span>
+                          <span>פרטים נוספים</span>
                         </Link>
                       </div>
                     </div>

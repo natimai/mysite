@@ -23,21 +23,20 @@ const Footer = () => {
                   target="_blank"
                 >
                   <i className="fa-sharp fa-solid fa-location-dot"></i>
-                  901 شارع بيت ، جناح 170 الإسكندرية ، الولايات المتحدة
-                  الأمريكية
+                  באר שבע, ישראל
                 </Link>
-                <Link href="tel:406-555-0120">
+                <Link href="tel:0544445567">
                   <i className="fa-sharp fa-solid fa-phone-volume"></i>
-                  (406) 555-0120
+                  054-4445567
                 </Link>
-                <Link href="mailto:info@xpovio.com">
+                <Link href="mailto:nati@natimarketing.co.il">
                   <i className="fa-sharp fa-solid fa-envelope"></i>
-                  info@xpovio.com
+                  nati@natimarketing.co.il
                 </Link>
               </div>
               <div className="footer__cta text-end">
                 <Link href="contact-us" className="btn btn--secondary">
-                  احجز مكالمة الآن
+                  צור קשר עכשיו
                 </Link>
               </div>
             </div>
@@ -45,21 +44,21 @@ const Footer = () => {
           <div className="col-12 col-lg-2 col-xl-2">
             <div className="footer__single">
               <div className="footer__single-intro">
-                <h5>اكتشف</h5>
+                <h5>קישורים מהירים</h5>
               </div>
               <div className="footer__single-content">
                 <ul>
                   <li>
-                    <Link href="about-us">معلومات عنا</Link>
+                    <Link href="about-us">אודות</Link>
                   </li>
                   <li>
-                    <Link href="client-feedback">الحائز على جائزة</Link>
+                    <Link href="client-feedback">המלצות</Link>
                   </li>
                   <li>
-                    <Link href="blog"> الأخبار والمدونة</Link>
+                    <Link href="blog">בלוג</Link>
                   </li>
                   <li>
-                    <Link href="contact-us">وظائف</Link>
+                    <Link href="contact-us">צור קשר</Link>
                   </li>
                 </ul>
               </div>
@@ -68,12 +67,11 @@ const Footer = () => {
           <div className="col-12 col-lg-5 col-xl-4">
             <div className="footer__single">
               <div className="footer__single-intro">
-                <h5>اشترك في النشرة الإخبارية لدينا</h5>
+                <h5>הרשמה לעדכונים</h5>
               </div>
               <div className="footer__single-content">
                 <p>
-                  مرحباً إلى الوكالة الرقمية لدينا نحن متخصصون في مساعدة الأعمال
-                  التجارية التي تشبه أعمالك على النجاح متصل.
+                  הירשמו לניוזלטר שלנו וקבלו טיפים, עדכונים ומידע מקצועי בתחום השיווק הדיגיטלי ישירות לתיבת המייל שלכם.
                 </p>
                 <div className="footer__single-form">
                   <form action="#" method="post">
@@ -82,7 +80,7 @@ const Footer = () => {
                         type="email"
                         name="subscribe-news"
                         id="subscribeNews"
-                        placeholder="Enter Your Email"
+                        placeholder="הזינו את האימייל שלכם"
                         required
                       />
                       <button type="submit" className="subscribe">
@@ -102,15 +100,7 @@ const Footer = () => {
                 <div className="col-12 col-lg-8">
                   <div className="footer__copyright-text text-center text-lg-end">
                     <p>
-                      حقوق النشر والنسخ ؛ &copy;
-                      <span id="copyYear">{currentYear}</span> Xpovio بواسطة{" "}
-                      <Link
-                        href="https://themeforest.net/user/UltraDevs"
-                        target="_blank"
-                      >
-                        UltraDevs{" "}
-                      </Link>
-                      . كل الحقوق محفوظة
+                      © כל הזכויות שמורות {currentYear} | נתי מימון - שיווק דיגיטלי
                     </p>
                   </div>
                 </div>
@@ -122,7 +112,7 @@ const Footer = () => {
                     <Link href="https://www.twitter.com/" target="_blank">
                       <i className="fa-brands fa-twitter"></i>
                     </Link>
-                    <Link href="https://www.pinterest.com/" target="_blank">
+                    <Link href="https://www.linkedin.com/" target="_blank">
                       <i className="fa-brands fa-linkedin-in"></i>
                     </Link>
                     <Link href="https://www.instagram.com/" target="_blank">

@@ -46,18 +46,16 @@ const WorkStepsProject = () => {
                   <div className="col-12 col-lg-5 col-xxl-5 offset-xxl-2">
                     <div className="section__header text-center text-lg-end mb-0">
                       <span className="sub-title">
-                        خطوات العمل
+                        תהליך העבודה
                         <i className="fa-solid fa-arrow-right"></i>
                       </span>
-                      <h2 className="title title-anim">عملية عملنا</h2>
+                      <h2 className="title title-anim">איך אנחנו עובדים</h2>
                     </div>
                   </div>
                   <div className="col-12 col-lg-7 col-xxl-5 ">
                     <div className="text-center text-lg-end">
                       <p>
-                        أحضر إلى الطاولة استراتيجيات البقاء المربحة للجانبين
-                        لضمان الهيمنة الاستباقية. في نهاية اليوم ، من الآن
-                        فصاعدًا ، نشأ وضع طبيعي جديد من جيل على المدرج يتجه نحو
+                        הגישה שלנו משלבת אסטרטגיה שיווקית חכמה עם ביצוע מדויק, תוך שימוש בכלים הדיגיטליים המתקדמים ביותר. אנו מאמינים בשקיפות מלאה, תקשורת ישירה והתמקדות בתוצאות מדידות.
                       </p>
                     </div>
                   </div>
@@ -78,7 +76,7 @@ const WorkStepsProject = () => {
                   25
                   <br />%
                 </span>
-                <h5>اكتشاف والاستراتيجية..</h5>
+                <h5>אפיון וחקר</h5>
                 <div
                   className="work-thumb-hover d-none d-md-block"
                   style={{
@@ -99,7 +97,7 @@ const WorkStepsProject = () => {
                   50
                   <br />%
                 </span>
-                <h5>اكتشاف والاستراتيجية.</h5>
+                <h5>אסטרטגיה ותכנון</h5>
                 <div
                   className="work-thumb-hover d-none d-md-block"
                   style={{
@@ -120,7 +118,7 @@ const WorkStepsProject = () => {
                   75
                   <br />%
                 </span>
-                <h5>اكتشاف والاستراتيجية.</h5>
+                <h5>יישום וביצוע</h5>
                 <div
                   className="work-thumb-hover d-none d-md-block"
                   style={{
@@ -141,7 +139,7 @@ const WorkStepsProject = () => {
                   100
                   <br />%
                 </span>
-                <h5>اكتشاف والاستراتيجية.</h5>
+                <h5>מדידה ואופטימיזציה</h5>
                 <div
                   className="work-thumb-hover d-none d-md-block"
                   style={{

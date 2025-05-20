@@ -8,7 +8,7 @@ import CtaTwo from "@/components/containers/service-details/CtaTwo";
 const OurProjects = () => {
   return (
     <Layout header={2} footer={5} video={0}>
-      <CmnBanner title="مشاريعنا" navigation="مشاريعنا" />
+      <CmnBanner title="הפרויקטים שלנו" navigation="פרויקטים" />
       <ProjectMain />
       <WorkStepsProject />
       <CtaTwo />

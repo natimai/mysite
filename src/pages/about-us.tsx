@@ -11,7 +11,7 @@ import AboutCta from "@/components/containers/home-two/AboutCta";
 const AboutUs = () => {
   return (
     <Layout header={2} footer={5} video={0}>
-      <CmnBanner title="معلومات عنا" navigation="معلومات عنا" />
+      <CmnBanner title="אודות נתי מימון" navigation="אודות" />
       <HomeTwoModal />
       <Agency />
       <TeamMembers />

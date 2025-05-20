@@ -25,7 +25,7 @@ const CmnBanner = ({ title, navigation, parent, parentLink }: BannerProps) => {
                     <li className="breadcrumb-item">
                       <Link href="/">
                         <i className="fa-solid fa-house"></i>
-                        بيت
+                        דף הבית
                       </Link>
                     </li>
                     {parent && (
@@ -43,9 +43,7 @@ const CmnBanner = ({ title, navigation, parent, parentLink }: BannerProps) => {
             <div className="col-12 col-lg-7 col-xl-5">
               <div className="text-center text-lg-end">
                 <p className="primary-text">
-                  نحن وكالة تصميم من الدرجة الأولى مقرها المملكة المتحدة ملتزمة
-                  بالشراكة مع الشركات الجيدة وتوظيف الأشخاص المناسبين للوظائف
-                  المناسبة.
+                  נתי מימון - מומחה שיווק דיגיטלי ומייסד משרד פרסום מוביל, עם התמחות בקידום עסקים בבאר שבע, קריית גת וכל אזור הדרום.
                 </p>
               </div>
             </div>

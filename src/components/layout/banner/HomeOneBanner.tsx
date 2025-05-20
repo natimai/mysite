@@ -53,26 +53,23 @@ const HomeOneBanner = () => {
             <div className="col-12">
               <div className="banner__content">
                 <h1 className="text-uppercase text-end fw-9 mb-0 title-anim">
-                  نحن <span className="text-stroke"> إبداعي</span>
+                  נתי <span className="text-stroke">מימון</span>
                   <span className="interval">
-                    نحن <i className="icon-arrow-top-right"></i>نحن الوكالة
-                    الرقمية
+                    שיווק <i className="icon-arrow-top-right"></i>דיגיטלי
                   </span>
                 </h1>
                 <div className="banner__content-inner">
                   <p>
-                    نحن تصميم موقع متكامل الخدمات وتطوير وتسويق شركة رقمية متخصص
-                    في تحسين محركات البحث وتسويق المحتوى الذي ينمو العلامات
-                    التجارية.
+                    מומחה שיווק דיגיטלי ומייסד משרד פרסום מוביל, עם התמחות בקידום עסקים בבאר שבע, קריית גת וכל אזור הדרום.
                   </p>
                   <div className="cta section__content-cta">
                     <div className="single">
-                      <h5 className="fw-7">12+</h5>
-                      <p className="fw-5">سنوات من الخبرة</p>
+                      <h5 className="fw-7">5+</h5>
+                      <p className="fw-5">שנות ניסיון</p>
                     </div>
                     <div className="single">
-                      <h5 className="fw-7">25k</h5>
-                      <p className="fw-5">المشاريع المنجزة</p>
+                      <h5 className="fw-7">100+</h5>
+                      <p className="fw-5">פרויקטים מוצלחים</p>
                     </div>
                   </div>
                 </div>
@@ -87,14 +84,14 @@ const HomeOneBanner = () => {
         />
         <Image src={star} alt="Image" className="star" />
         <div className="banner-left-text banner-social-text d-none d-md-flex">
-          <Link href="mailto:info@xpovio.com">بريد : info@xpovio.com</Link>
-          <Link href="tel:99-2158-003-6980">يتصل : +99 2158 003 6980</Link>
+          <Link href="mailto:nati@natimarketing.co.il">דוא״ל : nati@natimarketing.co.il</Link>
+          <Link href="tel:0544445567">טלפון : 054-4445567</Link>
         </div>
         <div className="banner-right-text banner-social-text d-none d-md-flex">
           <Link href="https://www.instagram.com/" target="_blank">
             instagram
           </Link>
-          <Link href="https://www.pinterest.com/" target="_blank">
+          <Link href="https://www.linkedin.com/" target="_blank">
             Linkedin
           </Link>
           <Link href="https://www.facebook.com/" target="_blank">

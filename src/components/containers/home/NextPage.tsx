@@ -12,7 +12,7 @@ const NextPage = () => {
           <div className="col-12 col-lg-8">
             <div className="section__header text-center">
               <Link href="about-us" className="sub-title mb-0">
-                الصفحة التالية
+                הדף הבא
                 <i className="fa-solid fa-arrow-right"></i>
               </Link>
             </div>
@@ -39,7 +39,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -49,7 +49,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1 str">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -59,7 +59,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -69,7 +69,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1 str">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -79,7 +79,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -89,7 +89,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1 str">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -99,7 +99,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -109,7 +109,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -119,7 +119,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1 str">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -129,7 +129,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -139,7 +139,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1 str">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -149,7 +149,7 @@ const NextPage = () => {
             <div className="next__text-slider-single">
               <h2 className="h1">
                 <Link href="about-us">
-                  معلومات عنا
+                  אודות נתי מימון
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>

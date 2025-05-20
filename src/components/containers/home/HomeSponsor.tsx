@@ -50,92 +50,92 @@ const HomeSponsor = () => {
               >
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={one} alt="Image" />
+                    <Image src={one} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={two} alt="Image" />
+                    <Image src={two} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={three} alt="Image" />
+                    <Image src={three} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={four} alt="Image" />
+                    <Image src={four} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={five} alt="Image" />
+                    <Image src={five} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={six} alt="Image" />
+                    <Image src={six} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={one} alt="Image" />
+                    <Image src={one} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={two} alt="Image" />
+                    <Image src={two} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={one} alt="Image" />
+                    <Image src={one} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={two} alt="Image" />
+                    <Image src={two} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={three} alt="Image" />
+                    <Image src={three} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={four} alt="Image" />
+                    <Image src={four} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={five} alt="Image" />
+                    <Image src={five} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={six} alt="Image" />
+                    <Image src={six} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={three} alt="Image" />
+                    <Image src={three} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={four} alt="Image" />
+                    <Image src={four} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={five} alt="Image" />
+                    <Image src={five} alt="לקוח" />
                   </div>
                 </SwiperSlide>
                 <SwiperSlide>
                   <div className="sponsor__slider-item">
-                    <Image src={six} alt="Image" />
+                    <Image src={six} alt="לקוח" />
                   </div>
                 </SwiperSlide>
               </Swiper>

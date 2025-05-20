@@ -37,7 +37,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -47,7 +47,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1 str">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -57,7 +57,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -67,7 +67,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1 str">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -77,7 +77,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -87,7 +87,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1 str">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -97,7 +97,7 @@ const PortfolioText = () => {
             <div className="portfolio__text-slider-single">
               <h2 className="h1">
                 <Link href="portfolio">
-                  محفظة رقمية
+                  פרויקטים נבחרים
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -123,7 +123,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">הדרומית - מסעדה</Link>
                 </h4>
               </div>
             </div>
@@ -144,7 +144,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">רנתור סטור - חנות אונליין</Link>
                 </h4>
               </div>
             </div>
@@ -165,7 +165,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">קמפיין פייסבוק - עסק מקומי</Link>
                 </h4>
               </div>
             </div>
@@ -186,7 +186,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">קידום אורגני - חברת נדל״ן</Link>
                 </h4>
               </div>
             </div>
@@ -207,7 +207,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">אתר תדמית - משרד עו״ד</Link>
                 </h4>
               </div>
             </div>
@@ -228,7 +228,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">ניהול רשתות חברתיות - ספא</Link>
                 </h4>
               </div>
             </div>
@@ -237,7 +237,7 @@ const PortfolioText = () => {
             <div className="portfolio__single-alt-wrapper fade-top">
               <div className="portfolio__single-alt topy-tilt">
                 <h4>
-                  <Link href="portfolio">عرض كل العمل</Link>
+                  <Link href="portfolio">צפה בכל הפרויקטים</Link>
                 </h4>
                 <Link href="portfolio" className="arr">
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
@@ -263,7 +263,7 @@ const PortfolioText = () => {
                   <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                 </Link>
                 <h4>
-                  <Link href="portfolio">التسويق الرقمي</Link>
+                  <Link href="portfolio">חנות אופנה - קמפיין גוגל</Link>
                 </h4>
               </div>
             </div>

@@ -12,10 +12,10 @@ const HomeBlog = () => {
           <div className="col-12 col-lg-8">
             <div className="section__header text-center">
               <span className="sub-title">
-                الأخبار والمدونة
+                בלוג ומאמרים
                 <i className="fa-solid fa-arrow-right"></i>
               </span>
-              <h2 className="title title-anim">ما الجديد في المدونة</h2>
+              <h2 className="title title-anim">תוכן מקצועי בשיווק דיגיטלי</h2>
             </div>
           </div>
         </div>
@@ -30,15 +30,15 @@ const HomeBlog = () => {
               <div className="blog__single-content">
                 <h4>
                   <Link href="blog-single">
-                    قائمة مراجعة بسيطة للتسويق عبر وسائل التواصل الاجتماعي
+                    5 טיפים לקמפיין פייסבוק מוצלח לעסקים בדרום
                   </Link>
                 </h4>
                 <div className="blog__single-meta">
                   <Link href="blog" className="sub-title">
-                    مبدع
+                    קמפיינים
                     <i className="fa-solid fa-arrow-right"></i>
                   </Link>
-                  <p>MARCH 23, 2023</p>
+                  <p>15 במרץ, 2023</p>
                 </div>
               </div>
             </div>
@@ -52,14 +52,14 @@ const HomeBlog = () => {
               </div>
               <div className="blog__single-content">
                 <h4>
-                  <Link href="blog-single">تحويل التحديات إلى فرص</Link>
+                  <Link href="blog-single">איך לבנות אסטרטגיית SEO לעסקים מקומיים</Link>
                 </h4>
                 <div className="blog__single-meta">
                   <Link href="blog" className="sub-title">
-                    مبدع
+                    קידום אורגני
                     <i className="fa-solid fa-arrow-right"></i>
                   </Link>
-                  <p>MARCH 23, 2023</p>
+                  <p>2 בפברואר, 2023</p>
                 </div>
               </div>
             </div>

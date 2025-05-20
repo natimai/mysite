@@ -94,43 +94,16 @@ const Offcanvas = ({ openNav, setOpenNav }: HeaderProps) => {
                     )}`}
                     onClick={() => handleSubmenu("home")}
                   >
-                    بيت
+                    דף הבית
                   </button>
                   <ul className={`navbar__sub-menu ${isSubMenuOpen("home")}`}>
                     <li>
-                      <Link href="/">وكالة إبداعية</Link>
-                    </li>
-                    <li>
-                      <Link href="index-light">وكالة إبداعية ضوء</Link>
-                    </li>
-                    <li>
-                      <Link href="index-two">الوكالة الرقمية</Link>
-                    </li>
-                    <li>
-                      <Link href="index-two-light">الوكالة الرقمية ضوء</Link>
-                    </li>
-                    <li>
-                      <Link href="index-three">انها الحل</Link>
-                    </li>
-                    <li>
-                      <Link href="index-three-light">انها الحل ضوء</Link>
-                    </li>
-                    <li>
-                      <Link href="index-four">المحفظة الشخصية</Link>
-                    </li>
-                    <li>
-                      <Link href="index-four-light">المحفظة الشخصية ضوء</Link>
-                    </li>
-                    <li>
-                      <Link href="index-five">محفظة تفاعلية</Link>
-                    </li>
-                    <li>
-                      <Link href="index-five-light">محفظة تفاعلية ضوء</Link>
+                      <Link href="/">דף הבית</Link>
                     </li>
                   </ul>
                 </li>
                 <li className="navbar__item nav-fade">
-                  <Link href="about-us">معلومات عنا</Link>
+                  <Link href="about-us">אודות</Link>
                 </li>
                 <li className="navbar__item navbar__item--has-children nav-fade">
                   <button
@@ -140,16 +113,25 @@ const Offcanvas = ({ openNav, setOpenNav }: HeaderProps) => {
                     )}`}
                     onClick={() => handleSubmenu("services")}
                   >
-                    خدمات
+                    שירותים
                   </button>
                   <ul
                     className={`navbar__sub-menu ${isSubMenuOpen("services")}`}
                   >
                     <li>
-                      <Link href="our-services">خدماتنا</Link>
+                      <Link href="our-services">כל השירותים</Link>
                     </li>
                     <li>
-                      <Link href="service-single">تفاصيل الخدمة</Link>
+                      <Link href="service-single">קמפיינים ממומנים</Link>
+                    </li>
+                    <li>
+                      <Link href="service-single">קידום אורגני</Link>
+                    </li>
+                    <li>
+                      <Link href="service-single">ניהול רשתות חברתיות</Link>
+                    </li>
+                    <li>
+                      <Link href="service-single">בניית אתרים</Link>
                     </li>
                   </ul>
                 </li>
@@ -161,70 +143,16 @@ const Offcanvas = ({ openNav, setOpenNav }: HeaderProps) => {
                     )}`}
                     onClick={() => handleSubmenu("projects")}
                   >
-                    المشاريع
+                    פרויקטים
                   </button>
                   <ul
                     className={`navbar__sub-menu ${isSubMenuOpen("projects")}`}
                   >
                     <li>
-                      <Link href="our-projects">مشاريعنا</Link>
+                      <Link href="our-projects">כל הפרויקטים</Link>
                     </li>
                     <li>
-                      <Link href="project-single">تفاصيل المشروع</Link>
-                    </li>
-                  </ul>
-                </li>
-                <li className="navbar__item navbar__item--has-children nav-fade">
-                  <button
-                    aria-label="dropdown menu"
-                    className={`navbar__dropdown-label ${isSubMenuButton(
-                      "pages"
-                    )}`}
-                    onClick={() => handleSubmenu("pages")}
-                  >
-                    الصفحات
-                  </button>
-                  <ul className={`navbar__sub-menu ${isSubMenuOpen("pages")}`}>
-                    <li>
-                      <Link href="faq">التعليمات</Link>
-                    </li>
-                    <li>
-                      <Link href="404">خطأ</Link>
-                    </li>
-                    <li>
-                      <Link href="our-story">قصتنا</Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio"> المحفظة </Link>
-                    </li>
-                    <li className="navbar__item navbar__item--has-children">
-                      <button
-                        aria-label="dropdown menu"
-                        className={`navbar__dropdown-label navbar__dropdown-label-sub ${isNestedMenuButton(
-                          "team"
-                        )}`}
-                        onClick={() => handleNestedmenu("team")}
-                      >
-                        فريق
-                      </button>
-                      <ul
-                        className={`navbar__sub-menu navbar__sub-menu__nested ${isNestedMenuOpen(
-                          "team"
-                        )}`}
-                      >
-                        <li>
-                          <Link href="our-teams">فرقنا</Link>
-                        </li>
-                        <li>
-                          <Link href="team-single">تفاصيل الفريق</Link>
-                        </li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="client-feedback">الشهادات - التوصيات</Link>
-                    </li>
-                    <li>
-                      <Link href="contact-us">اتصل بنا</Link>
+                      <Link href="project-single">פרטי פרויקט</Link>
                     </li>
                   </ul>
                 </li>
@@ -236,24 +164,27 @@ const Offcanvas = ({ openNav, setOpenNav }: HeaderProps) => {
                     )}`}
                     onClick={() => handleSubmenu("blog")}
                   >
-                    مدونة
+                    בלוג
                   </button>
                   <ul className={`navbar__sub-menu ${isSubMenuOpen("blog")}`}>
                     <li>
-                      <Link href="blog">مدونة</Link>
+                      <Link href="blog">כל המאמרים</Link>
                     </li>
                     <li>
-                      <Link href="blog-single">تفاصيل المدونة</Link>
+                      <Link href="blog-single">מאמר לדוגמה</Link>
                     </li>
                   </ul>
+                </li>
+                <li className="navbar__item nav-fade">
+                  <Link href="contact-us">צור קשר</Link>
                 </li>
               </ul>
             </div>
           </div>
           <div className="offcanvas-menu__options nav-fade">
-            <div className="offcanvas__mobile-options d-flex">
+            <div className="offcanvas-menu__mobile-options d-flex">
               <Link href="contact-us" className="btn btn--secondary">
-                لنتحدث
+                דבר איתי
               </Link>
             </div>
           </div>
@@ -273,9 +204,9 @@ const Offcanvas = ({ openNav, setOpenNav }: HeaderProps) => {
               <i className="fa-brands fa-twitter"></i>
             </Link>
             <Link
-              href="https://www.pinterest.com/"
+              href="https://www.linkedin.com/"
               target="_blank"
-              aria-label="share us on pinterest"
+              aria-label="share us on linkedin"
             >
               <i className="fa-brands fa-linkedin-in"></i>
             </Link>

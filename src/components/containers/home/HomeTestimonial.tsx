@@ -37,7 +37,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -47,7 +47,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -57,7 +57,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -67,7 +67,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -77,7 +77,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -87,7 +87,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -97,7 +97,7 @@ const HomeTestimonial = () => {
             <div className="testimonial__text-slider-single">
               <h2 className="h1">
                 <Link href="client-feedback">
-                  شهادة العميل
+                  המלצות לקוחות
                   <i className="fa-sharp fa-solid fa-arrow-down-right"></i>
                 </Link>
               </h2>
@@ -159,16 +159,12 @@ const HomeTestimonial = () => {
                           </div>
                           <div className="content">
                             <h4>
-                              لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة
-                              حول استنكار النشوة وتمجيد الألم نشأت بالفعل،
-                              وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة
-                              البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور
-                              بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين
+                              "נתי הוביל עבורנו קמפיין שיווקי שהביא לגידול משמעותי במספר הלקוחות. הגישה המקצועית והיכולת להבין את הצרכים הספציפיים של העסק שלנו הפכו את התהליך לפשוט ויעיל. ממליצים בחום!"
                             </h4>
                           </div>
                           <div className="content-cta">
-                            <h5>دانيال سميث</h5>
-                            <p>كبير المهندسين</p>
+                            <h5>רון כהן</h5>
+                            <p>בעלים, הדרומית</p>
                           </div>
                         </div>
                       </div>
@@ -203,16 +199,12 @@ const HomeTestimonial = () => {
                           </div>
                           <div className="content">
                             <h4>
-                              لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة
-                              حول استنكار النشوة وتمجيد الألم نشأت بالفعل،
-                              وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة
-                              البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور
-                              بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين
+                              "העבודה עם נתי שינתה את כל התפיסה השיווקית שלנו. הקידום האורגני שביצע הביא לנו תוצאות מדהימות והחזר השקעה גבוה. מקצועיות ללא פשרות!"
                             </h4>
                           </div>
                           <div className="content-cta">
-                            <h5>دانيال سميث</h5>
-                            <p>كبير المهندسين</p>
+                            <h5>מיכל לוי</h5>
+                            <p>מנהלת שיווק, רנתור סטור</p>
                           </div>
                         </div>
                       </div>
@@ -247,16 +239,12 @@ const HomeTestimonial = () => {
                           </div>
                           <div className="content">
                             <h4>
-                              لكن لا بد أن أوضح لك أن كل هذه الأفكار المغلوطة
-                              حول استنكار النشوة وتمجيد الألم نشأت بالفعل،
-                              وسأعرض لك التفاصيل لتكتشف حقيقة وأساس تلك السعادة
-                              البشرية، فلا أحد يرفض أو يكره أو يتجنب الشعور
-                              بالسعادة، ولكن بفضل هؤلاء الأشخاص الذين
+                              "האתר החדש שנתי בנה עבורנו הוא פשוט מושלם! הוא הבין בדיוק את הצרכים שלנו והצליח לתרגם אותם לאתר מקצועי, נוח לשימוש ומותאם לקהל היעד שלנו. התוצאות לא איחרו להגיע."
                             </h4>
                           </div>
                           <div className="content-cta">
-                            <h5>دانيال سميث</h5>
-                            <p>كبير المهندسين</p>
+                            <h5>אבי ישראלי</h5>
+                            <p>מנכ"ל, חברת נדל"ן</p>
                           </div>
                         </div>
                       </div>

@@ -37,23 +37,20 @@ const HomeOffer = () => {
           <div className="col-12 col-lg-5 offset-xl-1">
             <div className="offer__content section__content">
               <span className="sub-title">
-                ماذا نقدم
+                השירותים שלנו
                 <i className="fa-solid fa-arrow-right"></i>
               </span>
               <h2 className="title title-anim">
-                إعطاء عملك بعض الأفكار الرائعة
+                פתרונות שיווק דיגיטלי מקצועיים לעסק שלך
               </h2>
               <div className="paragraph">
                 <p>
-                  أحضر إلى الطاولة استراتيجيات البقاء المربحة للجانبين لضمان
-                  الهيمنة الاستباقية. في نهاية اليوم ، للمضي قدمًا ، وضع طبيعي
-                  جديد تطور من جيل إلى جيل المدرج متجهًا نحو حل سحابي مبسط للمضي
-                  قدمًا في porttitor القول المأثور سابين.
+                  הגישה שלי, כמשרד פרסום דיגיטלי מנוסה, משלבת אסטרטגיה שיווקית חכמה עם ביצוע מדויק, תוך שימוש בכלים הדיגיטליים המתקדמים ביותר. אני מאמין בשקיפות מלאה, תקשורת ישירה והתמקדות בתוצאות מדידות עבור לקוחותינו בבאר שבע, קריית גת והסביבה.
                 </p>
               </div>
               <div className="section__content-cta">
                 <Link href="our-services" className="btn btn--secondary">
-                  عرض جميع الخدمات
+                  כל השירותים
                 </Link>
               </div>
             </div>
@@ -67,7 +64,7 @@ const HomeOffer = () => {
                 </span>
                 <h2>
                   <Link href="service-single">
-                    تجربة واجهة المستخدم / اليوم
+                    ניהול קמפיינים ממומנים
                     <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                   </Link>
                 </h2>
@@ -82,7 +79,7 @@ const HomeOffer = () => {
                 </span>
                 <h2>
                   <Link href="service-single">
-                    تطوير الشبكة
+                    קידום אורגני SEO
                     <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                   </Link>
                 </h2>
@@ -97,7 +94,7 @@ const HomeOffer = () => {
                 </span>
                 <h2>
                   <Link href="service-single">
-                    التسويق الرقمي
+                    ניהול רשתות חברתיות
                     <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                   </Link>
                 </h2>
@@ -112,7 +109,7 @@ const HomeOffer = () => {
                 </span>
                 <h2>
                   <Link href="service-single">
-                    تصميم المنتج
+                    בניית אתרים
                     <i className="fa-sharp fa-solid fa-arrow-up-right"></i>
                   </Link>
                 </h2>

@@ -96,26 +96,23 @@ const Agency = () => {
           <div className="col-12 col-lg-6">
             <div className="agency__content section__content">
               <span className="sub-title">
-                مرحباً
+                אודות
                 <i className="fa-solid fa-arrow-right"></i>
               </span>
               <h2 className="title title-anim">
-                نحن مبدعون الرقميون وكالة في لندن
+                נתי מימון - מומחה שיווק דיגיטלי בדרום
               </h2>
               <div className="paragraph">
                 <p>
-                  أحضر إلى الطاولة استراتيجيات البقاء المربحة للجانبين لضمان
-                  الهيمنة الاستباقية. في نهاية اليوم ، للمضي قدمًا ، وضع طبيعي
-                  جديد تطور من جيل إلى جيل المدرج متجهًا نحو حل سحابي مبسط للمضي
-                  قدمًا في porttitor القول المأثور سابين.
+                  מומחה שיווק דיגיטלי ומייסד משרד פרסום מוביל, עם התמחות בקידום עסקים בבאר שבע, קריית גת וכל אזור הדרום. במהלך השנים האחרונות, הובלתי פרויקטים משמעותיים שהפכו עסקים מקומיים למותגים מובילים.
                 </p>
               </div>
               <div className="skill-wrap">
                 <div className="skill-bar-single">
                   <div className="skill-bar-title">
-                    <p className="primary-text">تصميم الموقع</p>
+                    <p className="primary-text">ניהול קמפיינים</p>
                   </div>
-                  <div className="skill-bar-wrapper" data-percent="75%">
+                  <div className="skill-bar-wrapper" data-percent="90%">
                     <div className="skill-bar">
                       <div className="skill-bar-percent">
                         <span className="percent-value"></span>
@@ -125,9 +122,9 @@ const Agency = () => {
                 </div>
                 <div className="skill-bar-single">
                   <div className="skill-bar-title">
-                    <p className="primary-text">التسويق الرقمي</p>
+                    <p className="primary-text">קידום אורגני</p>
                   </div>
-                  <div className="skill-bar-wrapper" data-percent="90%">
+                  <div className="skill-bar-wrapper" data-percent="85%">
                     <div className="skill-bar">
                       <div className="skill-bar-percent">
                         <span className="percent-value"></span>
@@ -138,7 +135,7 @@ const Agency = () => {
               </div>
               <div className="section__content-cta">
                 <Link href="about-us" className="btn btn--primary">
-                  تعرف أكثر
+                  קרא עוד
                 </Link>
               </div>
             </div>

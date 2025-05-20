@@ -17,12 +17,9 @@ const ContactMain = () => {
                 <Image src={phone} alt="Image" />
               </div>
               <div className="content">
-                <h4>الهاتف والفاكس</h4>
+                <h4>טלפון</h4>
                 <p>
-                  <Link href="tel:197-90-56-780">متحرك : +197-90-56-780</Link>
-                </p>
-                <p>
-                  <Link href="tel:197-90-56-780">فاكس : +44-208-1234567</Link>
+                  <Link href="tel:0544445567">נייד: 054-4445567</Link>
                 </p>
               </div>
             </div>
@@ -33,15 +30,10 @@ const ContactMain = () => {
                 <Image src={mail} alt="Image" />
               </div>
               <div className="content">
-                <h4>عنوان البريد</h4>
+                <h4>דוא״ל</h4>
                 <p>
-                  <Link href="mailto:info.company@gmail.com">
-                    Info.company@gmail.com
-                  </Link>
-                </p>
-                <p>
-                  <Link href="mailto:info.company@gmail.com">
-                    Info.company@yahoo.com
+                  <Link href="mailto:nati@natimarketing.co.il">
+                    nati@natimarketing.co.il
                   </Link>
                 </p>
               </div>
@@ -53,13 +45,13 @@ const ContactMain = () => {
                 <Image src={location} alt="Image" />
               </div>
               <div className="content">
-                <h4>موقعنا</h4>
+                <h4>מיקום</h4>
                 <p>
                   <Link
-                    href="https://www.google.com/maps/d/viewer?mid=1UZ57Drfs3SGrTgh6mrYjQktu6uY&hl=en_US&ll=18.672105000000013%2C105.68673800000003&z=17"
+                    href="https://www.google.com/maps"
                     target="_blank"
                   >
-                    85 كاتش هاربور رود بنسالم ، بنسلفانيا 19020
+                    באר שבע, ישראל
                   </Link>
                 </p>
               </div>
@@ -71,9 +63,9 @@ const ContactMain = () => {
                 <Image src={time} alt="Image" />
               </div>
               <div className="content">
-                <h4>ساعة مكتب</h4>
-                <p>Sun - Thu 09 am - 06pm</p>
-                <p>Fri - Sat 4 pm - 10pm</p>
+                <h4>שעות פעילות</h4>
+                <p>א-ה 09:00 - 18:00</p>
+                <p>ו 09:00 - 13:00</p>
               </div>
             </div>
           </div>
@@ -85,7 +77,7 @@ const ContactMain = () => {
                 <div className="col-12 col-lg-6">
                   <div className="contact__map fade-top">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d20342.411046372905!2d-74.16638039276373!3d40.719832743885284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1649562691355!5m2!1sen!2sbd"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108514.42902083922!2d34.7513599!3d31.252973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15026640029f8777%3A0x8dee8012deb5dd8!2z15HXkNeoINep15HXog!5e0!3m2!1siw!2sil!4v1649562691355!5m2!1siw!2sil"
                       width="100"
                       height="800"
                       style={{ border: "0px" }}
@@ -96,50 +88,50 @@ const ContactMain = () => {
                   </div>
                 </div>
                 <div className="col-12 col-lg-6">
-                  <div className="contact-main__form  fade-top">
-                    <h3>ترك رسالة</h3>
+                  <div className="contact-main__form fade-top">
+                    <h3>השאירו פרטים</h3>
                     <form
                       action="#"
                       method="post"
                       className="section__content-cta"
                     >
                       <div className="group-wrapper">
-                        <div className="group-input ">
+                        <div className="group-input">
                           <input
                             type="text"
                             name="contact-name"
                             id="contactName"
-                            placeholder="اسم"
+                            placeholder="שם מלא"
                           />
                         </div>
-                        <div className="group-input ">
+                        <div className="group-input">
                           <input
                             type="email"
                             name="contact-email"
                             id="contactEmail"
-                            placeholder="بريد إلكتروني"
+                            placeholder="דוא״ל"
                           />
                         </div>
                       </div>
                       <div className="group-input drt">
                         <select className="subject">
-                          <option data-display="موضوع">موضوع</option>
-                          <option value="1">حساب</option>
-                          <option value="2">خدمة</option>
-                          <option value="3">التسعير</option>
-                          <option value="4">يدعم</option>
+                          <option data-display="נושא">נושא</option>
+                          <option value="1">קמפיינים ממומנים</option>
+                          <option value="2">קידום אורגני</option>
+                          <option value="3">בניית אתרים</option>
+                          <option value="4">ניהול רשתות חברתיות</option>
                         </select>
                       </div>
-                      <div className="group-input ">
+                      <div className="group-input">
                         <textarea
                           name="contact-message"
                           id="contactMessage"
-                          placeholder="رسالة"
+                          placeholder="הודעה"
                         ></textarea>
                       </div>
                       <div className="form-cta justify-content-start">
                         <button type="submit" className="btn btn--primary">
-                          أرسل رسالة
+                          שלח הודעה
                         </button>
                       </div>
                     </form>
